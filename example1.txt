@@ -1,0 +1,13 @@
+input :
+
+Back to the Future 1
+
+Back to the Future 2
+
+Back to the Future 3
+
+La chèvre
+
+Output : 
+
+56.0
